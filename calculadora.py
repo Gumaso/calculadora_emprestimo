@@ -29,6 +29,5 @@ while True:
         else:
             print(f"Você pagará {vezes} parcelas de R${parcela_valores}")
             break
-
     elif opcao not in "vp":
         print("Apenas letras v ou p especificamente!")
